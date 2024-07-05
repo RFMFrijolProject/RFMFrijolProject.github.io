@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: roboto;
+}
+
+b {
+  font-family: roboto;
+}
+
+li {
+  font-family: roboto;
+}
+
+.titles {
+  color: red;
+  font-size: 30pt;
+  font-family: roboto;
+}
+
+.subtitles {
+  color: #5a7f78;
+  font-size: 20pt;
+  font-family: roboto;
+}
+
+.imagenFrijolera {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
